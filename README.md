@@ -16,6 +16,9 @@ Coming soon! (Online instructions)
 Coming soon! (For trimming and padding to 0.74secs or other define length)
 # Release Note: 
 - For more details, kindly refer to the following paper: Coming soon!
-- If you use this dataset for research work please cite this paper as: Coming soon!
+- If you use this dataset for research work please cite this paper as:
+Swahili Speech Dataset Development and Improved Pre-training Method for Spoken Digit Recognition
+Alexander R. Kivaisi, Qingjie Zhao, Jimmy T. Mbelwa
+ACM Transactions on Asian and Low-Resource Language Information Processing, Volume 22 Issue 7
  
 
